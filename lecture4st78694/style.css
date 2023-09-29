@@ -1,0 +1,50 @@
+body {
+background-image: url('file:///C:/Users/st78694/Desktop/lecture4st78694/background.jpg');
+background-size: cover;
+}
+
+p, h2,h3, li {
+    margin-left: 500px;
+}
+h1 {
+	color: blue
+}
+h2 {
+	color: purple
+}
+h3 {
+	color: red
+}          
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+
+input[type="email"] {
+    margin-left: 500px;
+    width: 15%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.subscribe-button {
+    margin-left: 500px;
+    background-color: purple;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+form1{
+    margin-left: 500px;
+}
+ .button{
+    margin-left: 500px;
+}
+
